@@ -1,0 +1,19 @@
+{
+  "manufacturer": "samsung",
+  "brand": "samsung",
+  "model": "SM-A566B",
+  "device": "a56x",
+  "product": "a56xnaeea",
+  "fingerprint": "samsung\/a56xnaeea\/a56x:16\/BP4A.251205.006\/A566BXXSECZI2_OXMECZI2:user\/release-keys",
+  "release": "16",
+  "securityPatch": "2026-09-05",
+  "sdkInt": 36,
+  "firstApiLevel": 35,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": false,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}

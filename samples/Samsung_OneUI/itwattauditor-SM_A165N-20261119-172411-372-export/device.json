@@ -1,0 +1,19 @@
+{
+  "manufacturer": "samsung",
+  "brand": "samsung",
+  "model": "SM-A165N",
+  "device": "a16",
+  "product": "a16ks",
+  "fingerprint": "samsung\/a16ks\/a16:16\/BP4A.251205.006\/A165NKSS9DZH6:user\/release-keys",
+  "release": "16",
+  "securityPatch": "2026-08-05",
+  "sdkInt": 36,
+  "firstApiLevel": 34,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": false,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
