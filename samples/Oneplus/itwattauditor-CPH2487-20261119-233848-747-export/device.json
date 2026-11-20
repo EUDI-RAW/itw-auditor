@@ -1,0 +1,19 @@
+{
+  "manufacturer": "OnePlus",
+  "brand": "OnePlus",
+  "model": "CPH2487",
+  "device": "OP5961L1",
+  "product": "CPH2487",
+  "fingerprint": "OnePlus\/CPH2487\/OP5961L1:13\/SKQ1.221012.001\/T.R4T3.f420d8-50c0f-3db13:user\/release-keys",
+  "release": "13",
+  "securityPatch": "2023-03-05",
+  "sdkInt": 33,
+  "firstApiLevel": 33,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": false,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}

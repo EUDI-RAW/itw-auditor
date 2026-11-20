@@ -1,0 +1,19 @@
+{
+  "manufacturer": "motorola",
+  "brand": "motorola",
+  "model": "moto g54 5G",
+  "device": "cancunf",
+  "product": "cancunf_g_sysen",
+  "fingerprint": "motorola\/cancunf_g_sysen\/cancunf:15\/V1TDS35H.83-20-5-8-6\/f6c76f-a73c57:user\/release-keys",
+  "release": "15",
+  "securityPatch": "2026-09-01",
+  "sdkInt": 35,
+  "firstApiLevel": 33,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": false,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}

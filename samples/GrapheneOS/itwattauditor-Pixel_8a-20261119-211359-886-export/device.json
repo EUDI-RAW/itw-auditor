@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Google",
+  "brand": "google",
+  "model": "Pixel 8a",
+  "device": "akita",
+  "product": "akita",
+  "fingerprint": "google\/akita\/akita:17\/CP3A.261005.005\/2026111300:user\/release-keys",
+  "release": "17",
+  "securityPatch": "2026-11-01",
+  "sdkInt": 37,
+  "firstApiLevel": 34,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": true,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}

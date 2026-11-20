@@ -1,0 +1,19 @@
+{
+  "manufacturer": "realme",
+  "brand": "realme",
+  "model": "RMX3785",
+  "device": "RE5C6CL1",
+  "product": "RMX3785IN",
+  "fingerprint": "realme\/RMX3785IN\/RE5C6CL1:13\/TP1A.220905.001\/T.R4T2.14fdb2b_241ba-38f87:user\/release-keys",
+  "release": "13",
+  "securityPatch": "2023-11-05",
+  "sdkInt": 33,
+  "firstApiLevel": 33,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": false,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
