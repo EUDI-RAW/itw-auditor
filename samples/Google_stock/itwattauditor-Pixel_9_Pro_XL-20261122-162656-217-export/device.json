@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Google",
+  "brand": "google",
+  "model": "Pixel 9 Pro XL",
+  "device": "komodo",
+  "product": "komodo",
+  "fingerprint": "google\/komodo\/komodo:17\/CP4A.261105.040.A1\/16581829:user\/release-keys",
+  "release": "17",
+  "securityPatch": "2026-11-05",
+  "sdkInt": 37,
+  "firstApiLevel": 34,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": true,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
