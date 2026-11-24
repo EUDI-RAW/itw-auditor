@@ -1,0 +1,19 @@
+{
+  "manufacturer": "OPPO",
+  "brand": "OPPO",
+  "model": "CPH2913",
+  "device": "OP665DL1",
+  "product": "CPH2913EEA",
+  "fingerprint": "OPPO\/CPH2913EEA\/OP665DL1:17\/CP2A.260605.016\/C.R5T3.137ffc0_13436ad_1327fe0:user\/release-keys",
+  "release": "17",
+  "securityPatch": "2026-11-01",
+  "sdkInt": 37,
+  "firstApiLevel": 37,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": true,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
