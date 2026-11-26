@@ -1,0 +1,19 @@
+{
+  "manufacturer": "OPPO",
+  "brand": "OPPO",
+  "model": "CPH2791",
+  "device": "OP5E8EL1",
+  "product": "CPH2791EEA",
+  "fingerprint": "OPPO\/CPH2791EEA\/OP5E8EL1:17\/CP2A.260605.016\/B.R4T3.2288266_3f3d23_3e0f85:user\/release-keys",
+  "release": "17",
+  "securityPatch": "2026-10-01",
+  "sdkInt": 37,
+  "firstApiLevel": 36,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": true,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
