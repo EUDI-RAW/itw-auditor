@@ -1,0 +1,19 @@
+{
+  "manufacturer": "HONOR",
+  "brand": "HONOR",
+  "model": "BKQ-N49",
+  "device": "HNBKQ",
+  "product": "BKQ-N49EEA",
+  "fingerprint": "HONOR\/BKQ-N49EEA\/HNBKQ:17\/HONORBKQ-N49\/11.0.0.130C431E7R105P1:user\/release-keys",
+  "release": "17",
+  "securityPatch": "2026-10-01",
+  "sdkInt": 37,
+  "firstApiLevel": 36,
+  "hardwareAttestationSupported": true,
+  "appAttestKeySupported": true,
+  "strongBox": true,
+  "appVersion": "0.1.0",
+  "appSigningCertificateDigests": [
+    "477cf555b636125b7bdaf126b694f3b990fdc4f8ae5247fdd29296becd160053"
+  ]
+}
